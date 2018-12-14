@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+#define ying (
+#define yingying )
+#define yingyingying {
+#define yingyingyingying }
+#define yingyingyingyingying "嘤"
+#define yingyingyingyingyingying ,
+#define yingyingyingyingyingyingying ;
+#define yingyingyingyingyingyingyingying int
+#define yingyingyingyingyingyingyingyingying main
+#define yingyingyingyingyingyingyingyingyingying while
+#define yingyingyingyingyingyingyingyingyingyingying fputs
+#define yingyingyingyingyingyingyingyingyingyingyingying stdout
+#define yingyingyingyingyingyingyingyingyingyingyingyingying 1
+
+yingyingyingyingyingyingyingying yingyingyingyingyingyingyingyingying ying yingying yingyingying yingyingyingyingyingyingyingyingyingying ying yingyingyingyingyingyingyingyingyingyingyingyingying yingying yingyingyingyingyingyingyingyingyingyingying ying yingyingyingyingying yingyingyingyingyingying yingyingyingyingyingyingyingyingyingyingyingying yingying yingyingyingyingyingyingying yingyingyingying
